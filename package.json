@@ -1,0 +1,16 @@
+{
+  "name": "dj-bot",
+  "main": "index.js",
+  "author": "Gumybear",
+  "version": "5.0.0",
+  "description": "Simple music bot",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.4.0",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.2.7"
+  }
+}
